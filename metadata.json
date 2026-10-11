@@ -1,0 +1,8 @@
+{
+  "name": "Janamitra — Municipal Complaint Management",
+  "description": "Comprehensive municipal corporation complaint management platform with citizen grievance submission, photo evidence, GPS geotagging, public tracking, and officer resolution dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
